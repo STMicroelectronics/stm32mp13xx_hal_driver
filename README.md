@@ -29,7 +29,7 @@ Details about the content of this release are available in the release note [her
 
 It is **crucial** that you use a consistent set of versions for the CMSIS Core - CMSIS Device - HAL, as mentioned in [this](https://htmlpreview.github.io/?https://github.com/STMicroelectronics/STM32CubeMP13/blob/main/Release_Notes.html) release note.
 
-The full **STM32CubeH5** MCU package is available [here](https://github.com/STMicroelectronics/STM32CubeMP13).
+The full **STM32CubeMP13** MPU package is available [here](https://github.com/STMicroelectronics/STM32CubeMP13).
 
 ## Troubleshooting
 
